@@ -1,0 +1,37 @@
+.edu-row{
+    width: 50%;
+    margin: 100px auto 100px auto;
+    text-align: left;
+    line-height: 2;
+}
+
+/* ---------images--------- */
+.eduimage {
+    width: 25%;
+    background-color: #B7B78A;
+    border-radius: 50%;
+    border: solid;
+    border-color: #B7B78A;
+    border-width: 5px;
+    margin: 10px; 
+    transition: width 0.3s;
+}
+
+.eduimage:hover {
+    width: 26%;
+}
+
+.computer {
+    float: left;
+    margin-right: 30px;
+}
+
+.book {
+    float: right;
+    margin-left: 30px;
+}
+
+
+
+
+  
